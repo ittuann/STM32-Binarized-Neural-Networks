@@ -1,8 +1,8 @@
-# STM32 Binarized Neural Networks (BNN)
+# STM32 Binarized Neural Network (BNN)
 
 Deploy Binarized Neural Networks (BNNs) AI on any Microcontroller Unit (MCU).
 
-As an example, I deploy model inference on an STM32-F411CEU6 MCU, running at 100 MHz (0.1GHz). Using the MNIST dataset for digit classification tasks, the network utilizes an MLP architecture with a total of 7,890 parameters.
+As an example, I deploy model inference on an STM32-F411CEU6 MCU, running at 100 MHz (0.1GHz). Using the MNIST dataset for numerical recognition classification tasks, the network utilizes an MLP architecture with a total of 7,890 parameters.
 
 Each inference takes **ONLY 1.3 ms**, with an overall accuracy rate of 93.89%.
 
